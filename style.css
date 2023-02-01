@@ -1,0 +1,51 @@
+.wrap{
+   justify-content: flex-start; 
+}
+
+.container1{
+    display: flex;
+    background-color: rgb(245, 245, 245);
+    height: 1000px;
+}
+.container1 h1{
+   font-family: Arial, Helvetica, sans-serif;   
+   padding-left: 2%;
+   font-size: 20px;
+}
+
+.btn button{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 12px;
+    bottom: 80%;
+    background-color: #0d6efd;
+    border-color: #0d6efd;
+    border-radius: 5px;
+    margin: 12px;
+    margin-left: 80px;
+    padding-top:4px ;
+    padding-bottom:4px ;
+    padding-left: 25px;
+    padding-right: 25px;
+
+  
+}
+
+
+
+.table table{
+     font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    z-index: 2;
+    bottom: 85%;
+    width: 100%;
+    right: 125px;
+    border: 0.5px solid;
+
+
+
+
+
+}
+
+
